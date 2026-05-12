@@ -1,1 +1,6 @@
-
+# Reponses du Tp
+Git est un outil de versioning local, tandis que GitHub est la plateforme en ligne qui permet de stocker et partager ses projets.
+La commande `git init` permet de démarrer un dépôt Git dans un dossier. 
+Pour envoyer son travail sur GitHub, on utilise `git push origin main`, après avoir ajouté et commité ses fichiers.
+Les branches servent à travailler sans toucher au code principal. 
+Enfin, `git log` permet de consulter tout l'historique des commits du projet.
